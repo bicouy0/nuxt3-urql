@@ -30,7 +30,7 @@
     "@graphql-codegen/typescript-urql-graphcache": "^2.2.16",
     "@graphql-codegen/typescript-vue-urql": "^2.2.14",
     "@graphql-codegen/urql-introspection": "^2.1.1",
-    "@typescript-eslint/eslint-plugin": "^5.29.0",
+    "@typescript-eslint/eslint-plugin": "^5.31.0",
     "@typescript-eslint/parser": "^5.29.0",
     "@urql/exchange-graphcache": "^4.4.3",
     "@urql/vue": "^0.6.3",
