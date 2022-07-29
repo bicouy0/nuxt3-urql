@@ -19,7 +19,7 @@
     "lint": "eslint . --ext .js,.jsx,.ts,.tsx,.vue"
   },
   "devDependencies": {
-    "@graphql-codegen/cli": "^2.6.2",
+    "@graphql-codegen/cli": "^2.11.2",
     "@graphql-codegen/fragment-matcher": "^3.2.1",
     "@graphql-codegen/near-operation-file-preset": "^2.2.14",
     "@graphql-codegen/typed-document-node": "^2.2.13",
